@@ -6,5 +6,7 @@ public class Main {
         Cafe cafe = new Cafe();
         cafe.setTipo("Cafe São Braz");
         System.out.println(cafe.getTipo());
+        cafe.setTipo("tipo a");
+        cafe.setTipo("tipo b");
     }
 }
