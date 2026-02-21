@@ -11,5 +11,10 @@ public class Main {
         double valorDesconto = produto.aplicarDesconto(desconto);
         System.out.println(valorDesconto);
         produto.detalhes();
+
+//        produto.preco = 100.00;
+//        produto.categoria = "Fanta";
+        produto.detalhes();
+
     }
 }

@@ -2,9 +2,9 @@ package org.example.poo;
 
 public class Produto {
     //Atributos da classe
-    String nome;
-    double preco;
-    String categoria;
+    private String nome;
+    private double preco;
+    private String categoria;
 
     public Produto(String nome, double preco, String categoria){
         this.nome = nome;
