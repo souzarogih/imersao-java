@@ -35,3 +35,13 @@ Desafie-se a melhorar a organização do código.
 👨‍🏫 Professor
 
 Desenvolvido como material de apoio para as aulas de Imersão Java da ProgramaAI.
+
+
+- Interface (tenta fazer um exemplo que se parece com os service->serviceimpl) que fazemos no spring
+- Anotações @ (tenta ver algo simples que daria para usar com Java Básico)
+- ”Simular um DTO” -> No Java básico produz um objeto completo com todos os atributos mas coloca um método para retornar somente o que o outros objeto menor pede
+- Extends -> focar bem devido a utilização no repository
+- Implements -> focar bem devido a utilização no Service
+- @Override -> focar bem devido a utilização no Service
+- Depois de trabalhar uma classe com gets/sets usa lombok em outra classe para gera-los, construtores também
+- < > Generics por cima, mas uma breve explicação
